@@ -1,7 +1,7 @@
 <p align="center">
  <img src="./assets/icons/💻.png" alt="Foto de capa" width="100%" />
 </p>    
-## 💻 Projeto
+## 💻 Projeto Formulário de Matrícula
 Esse é um projeto Webresponsivo feito com objetivo de aprender e aperfeiçoar a construção de formulários para o desenvolvimento web.
 
 ## 👩‍💻 Tecnologias
